@@ -1,4 +1,4 @@
-##study design (description of how the data were collected)
+##study design (description of how the data were collected)1
 
 #The script run_analysis.R performs the 5 steps described in the course project's definition.
 
